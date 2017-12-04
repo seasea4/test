@@ -1,2 +1,1 @@
 This is the second commit I have ever written.
-Add a line for testing amend.
